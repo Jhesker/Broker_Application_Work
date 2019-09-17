@@ -1,0 +1,42 @@
+
+AAA11111     Rogan, Seth
+
+
+Number of Stock Trade Listings for Broker: 0
+Total value of Stock Trade Listings for Broker: $0
+
+
+ABC12345     Johnson, Amy
+
+
+Number of Stock Trade Listings for Broker: 0
+Total value of Stock Trade Listings for Broker: $0
+
+
+BBB11111     Murray, Bill
+
+TYU       899.99         365     NO    
+QER       365.25         450     NO    
+
+Number of Stock Trade Listings for Broker: 2
+Total value of Stock Trade Listings for Broker: $2
+
+
+LMN12121     Sun, Summer
+
+
+Number of Stock Trade Listings for Broker: 0
+Total value of Stock Trade Listings for Broker: $0
+
+
+XYZ98765     Fuentes, Jose
+
+MmM       88.88          650     NO    
+MMM       1100.0         650     NO    
+MMM       88.88          200000  NO    
+ABC       1000.0         125     NO    
+
+Number of Stock Trade Listings for Broker: 4
+Total value of Stock Trade Listings for Broker: $4
+
+Total value of Stock Trade Listings: $1.916663085E7
