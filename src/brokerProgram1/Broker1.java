@@ -1,14 +1,12 @@
-/*CS310Hesker - 
- *
- */
-package cs310hesker;
+
+package brokerProgram1;
 
 import java.io.*;
 import java.util.Scanner;
 import java.util.Arrays;
 
 
-public class CS310Hesker 
+public class  Broker1
 {
     static BrokerLogImpl brokerLogImpl= new BrokerLogImpl();
     static StockTradeLogImpl stockTradeLogImpl = new StockTradeLogImpl();

@@ -2,7 +2,7 @@
  * objects.
  * 
  */
-package cs310hesker;
+package brokerProgram1;
 
 public class StockTradeLogImpl
 {

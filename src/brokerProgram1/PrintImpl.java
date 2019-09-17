@@ -2,7 +2,7 @@
  * location in which the report was save to.
  * 
  */
-package cs310hesker;
+package brokerProgram1;
 
 import java.io.FileWriter;
 import java.io.IOException;

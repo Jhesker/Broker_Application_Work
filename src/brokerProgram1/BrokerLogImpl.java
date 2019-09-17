@@ -5,7 +5,7 @@
  *  to check the brokerLicense is not already in the ArrayList to ensure it is
  *  a new addition. 
  */
-package cs310hesker;
+package brokerProgram1;
 
 import java.util.ArrayList;
 

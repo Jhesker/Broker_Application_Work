@@ -3,7 +3,7 @@
  * missentered such as brokerLicense and dept.
  * class also overrides object methods eguals() and toString() 
  */
-package cs310hesker;
+package brokerProgram1;
 
 import java.util.Objects;
 
